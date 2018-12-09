@@ -1,0 +1,24 @@
+{
+  "pages": [
+    "pages/index/index",
+    
+    "pages/weather/weather",
+    "pages/weight/weight",
+    "pages/kaluli/kaluli",
+    "pages/poi/poi",
+    "pages/lujingsousuo/lujingsousuo",
+    "pages/navigation_ride/navigation",
+    "pages/navigation_ride_detail/navigation",
+    "pages/inputtips/input",
+    "pages/ridingsafe/ridingsafe",
+    "pages/nightsafe/nightsafe"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarTitleText": "Searching",
+    "navigationBarTextStyle": "white"
+  },
+  "networkTimeout": {
+    "request": 6000
+  }
+}
