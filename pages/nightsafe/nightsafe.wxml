@@ -1,0 +1,3 @@
+<!--pages/RidingSafe/ridingsafe.wxml-->
+<button  bindtap="send4"> 状态:{{night}}</button>
+

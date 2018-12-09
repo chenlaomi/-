@@ -1,0 +1,5 @@
+<view class="flex-item active">
+
+  <input bindinput= "getInput"   value="{{destination}}"placeholder="请输入您的体重  KG" placeholder-style="color: blue"/>
+  <button bindtap='destination'>提交</button>
+</view>

@@ -1,0 +1,12 @@
+<!--pages/kaluli/kaluli.wxml-->
+<view class="flex-wrap">
+<view class="container">
+<view class="item"><button class="btn" type="default" size="mini">开始你的旅程</button></view>
+
+<view class="item"><button class="btn" type="default" size="mini">感觉身体被掏空。。。</button></view>
+</view>
+</view>
+
+<view >当前骑行里程：{{licheng}} m</view>
+<view >当前骑行速度(10s)：{{sudu}} m/s</view>
+<view >当前骑行消耗：{{weight}} m/s</view>

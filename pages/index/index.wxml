@@ -1,0 +1,17 @@
+
+<view class="flex-wrap">
+<view class="container">
+
+<view class="item"><button class="btn" type="default" bindtap="naviTokaluli" size="mini">卡路里监视器</button></view>
+
+<view class="item"><button class="btn" type="default" bindtap="naviToPoi" size="mini">周边兴趣热点</button></view>
+<view class="item"><button class="btn" type="default" bindtap="naviToWeather" size="mini" >今日天气查询</button></view>
+
+<view class="item"><button class="btn" type="default" bindtap="naviToNightSafe" size="mini">夜间安全模式</button></view>
+
+<view class="item"><button class="btn" type="default" bindtap="naviToRidingSafe" size="mini">后方安全模式</button></view>
+
+
+<view class="item"><button class="btn" type="default" bindtap="naviToNavi" size="mini">骑行路线规划</button></view>
+</view>
+</view>
